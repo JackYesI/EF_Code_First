@@ -1,0 +1,12 @@
+D:\C#\ConsoleApp1\CodeFIRST\bin\Debug\CodeFIRST.exe.config
+D:\C#\ConsoleApp1\CodeFIRST\bin\Debug\CodeFIRST.exe
+D:\C#\ConsoleApp1\CodeFIRST\bin\Debug\CodeFIRST.pdb
+D:\C#\ConsoleApp1\CodeFIRST\bin\Debug\EntityFramework.dll
+D:\C#\ConsoleApp1\CodeFIRST\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\ConsoleApp1\CodeFIRST\bin\Debug\EntityFramework.xml
+D:\C#\ConsoleApp1\CodeFIRST\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\ConsoleApp1\CodeFIRST\obj\Debug\CodeFIRST.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\CodeFIRST\obj\Debug\CodeFIRST.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\CodeFIRST\obj\Debug\CodeFIRST.csproj.CopyComplete
+D:\C#\ConsoleApp1\CodeFIRST\obj\Debug\CodeFIRST.exe
+D:\C#\ConsoleApp1\CodeFIRST\obj\Debug\CodeFIRST.pdb
